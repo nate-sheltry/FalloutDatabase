@@ -1,0 +1,7 @@
+{
+	"special": {"S":5, "P": 7, "E": 6, "C": 7, "I": 6, "A": 7, "L": 6},
+	"secondaryStats": {"AP":8, "AC":15, "HP":60, "MD":1, "CC":6, "SQ":14},
+	"gmInfo": {"XP": 90, "rad_-Res_": 12,"pois_-Res_": 30},
+	"damageThreshold": {"norm": "0 | 20", "laser": "0 | 20", "fire": "0 | 10", "plasma": "0 | 10", "elec_": "0 | 30", "expl_": "0 | 20", "EMP": "0 | 500"},
+	"skillsInfo": {"sm_-Guns": 80, "big-Guns": 31, "en_-Weap_": 14, "unarmed": 65, "melee": 75, "throw_": 28}
+}
