@@ -1,0 +1,1778 @@
+{
+	"agile-guard": {
+		"name": "Agile Guard",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/agile-guard.json"
+	},
+	"agile-guard-alt_1": {
+		"name": "Agile Guard Alt.1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/agile-guard-alt_1.json"
+	},
+	"agile-thug": {
+		"name": "Agile Thug",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/agile-thug.json"
+	},
+	"agile-thug-alt_1": {
+		"name": "Agile Thug Alt.1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/agile-thug-alt_1.json"
+	},
+	"ahs-9": {
+		"name": "AHS-9",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/ahs-9.json"
+	},
+	"algernon": {
+		"name": "Algernon",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/algernon.json"
+	},
+	"alien": {
+		"name": "Alien",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/alien.json"
+	},
+	"angela-bishop": {
+		"name": "Angela Bishop",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/angela-bishop.json"
+	},
+	"angry-brahmin": {
+		"name": "Angry Brahmin",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/angry-brahmin.json"
+	},
+	"anna": {
+		"name": "Anna",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/anna.json"
+	},
+	"auto-cannon": {
+		"name": "Auto-Cannon",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/auto-cannon.json"
+	},
+	"average-merchant": {
+		"name": "Average Merchant",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/average-merchant.json"
+	},
+	"average-merchant-alt_1": {
+		"name": "Average Merchant Alt.1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/average-merchant-alt_1.json"
+	},
+	"average-peasant": {
+		"name": "Average Peasant",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/average-peasant.json"
+	},
+	"average-peasant-alt_1": {
+		"name": "Average Peasant Alt.1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/average-peasant-alt_1.json"
+	},
+	"b_-hunter-lead-(1-6)": {
+		"name": "B. Hunter Lead (1-6)",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/b_-hunter-lead-(1-6).json"
+	},
+	"b_-hunter-lead-(13-18)": {
+		"name": "B. Hunter Lead (13-18)",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/b_-hunter-lead-(13-18).json"
+	},
+	"b_-hunter-lead-(19-x)": {
+		"name": "B. Hunter Lead (19-X)",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/b_-hunter-lead-(19-x).json"
+	},
+	"b_-hunter-lead-(7-12)": {
+		"name": "B. Hunter Lead (7-12)",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/b_-hunter-lead-(7-12).json"
+	},
+	"bad-merchant": {
+		"name": "Bad Merchant",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/bad-merchant.json"
+	},
+	"bad-merchant-alt_1": {
+		"name": "Bad Merchant Alt.1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/bad-merchant-alt_1.json"
+	},
+	"badger": {
+		"name": "Badger",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/badger.json"
+	},
+	"balthas": {
+		"name": "Balthas",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/balthas.json"
+	},
+	"bandit": {
+		"name": "Bandit",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/bandit.json"
+	},
+	"bandit-alt_1": {
+		"name": "Bandit Alt.1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/bandit-alt_1.json"
+	},
+	"bartender-alt_1": {
+		"name": "Bartender Alt.1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/bartender-alt_1.json"
+	},
+	"bess": {
+		"name": "Bess",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/bess.json"
+	},
+	"big-gun-guard": {
+		"name": "Big Gun Guard",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/big-gun-guard.json"
+	},
+	"big-gun-guard-alt_1": {
+		"name": "Big Gun Guard Alt.1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/big-gun-guard-alt_1.json"
+	},
+	"big-gun-thug": {
+		"name": "Big Gun Thug",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/big-gun-thug.json"
+	},
+	"big-gun-thug-alt_1": {
+		"name": "Big Gun Thug Alt.1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/big-gun-thug-alt_1.json"
+	},
+	"big-jesus-alt_1": {
+		"name": "Big Jesus Alt.1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/big-jesus-alt_1.json"
+	},
+	"big-jesus-mordino": {
+		"name": "Big Jesus Mordino",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/big-jesus-mordino.json"
+	},
+	"bishop's-guard-1": {
+		"name": "Bishop's Guard 1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/bishop's-guard-1.json"
+	},
+	"bishop's-thug-1": {
+		"name": "Bishop's Thug 1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/bishop's-thug-1.json"
+	},
+	"black-radscorpion": {
+		"name": "Black Radscorpion",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/black-radscorpion.json"
+	},
+	"black-radscorpion-alt_1": {
+		"name": "Black Radscorpion Alt.1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/black-radscorpion-alt_1.json"
+	},
+	"bootlegger": {
+		"name": "Bootlegger",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/bootlegger.json"
+	},
+	"bootlegger-alt_1": {
+		"name": "Bootlegger Alt.1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/bootlegger-alt_1.json"
+	},
+	"bouncer": {
+		"name": "Bouncer",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/bouncer.json"
+	},
+	"bounty-hunter-(1-6)": {
+		"name": "Bounty Hunter (1-6)",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/bounty-hunter-(1-6).json"
+	},
+	"bounty-hunter-(13-18)": {
+		"name": "Bounty Hunter (13-18)",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/bounty-hunter-(13-18).json"
+	},
+	"bounty-hunter-(13-18)-alt_1": {
+		"name": "Bounty Hunter (13-18) Alt.1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/bounty-hunter-(13-18)-alt_1.json"
+	},
+	"bounty-hunter-(19-x)": {
+		"name": "Bounty Hunter (19-X)",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/bounty-hunter-(19-x).json"
+	},
+	"bounty-hunter-(7-12)": {
+		"name": "Bounty Hunter (7-12)",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/bounty-hunter-(7-12).json"
+	},
+	"bounty-hunter-(7-12)-alt_1": {
+		"name": "Bounty Hunter (7-12) Alt.1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/bounty-hunter-(7-12)-alt_1.json"
+	},
+	"boxer-1": {
+		"name": "Boxer 1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/boxer-1.json"
+	},
+	"brahmin": {
+		"name": "Brahmin",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/brahmin.json"
+	},
+	"bridge-guardian": {
+		"name": "Bridge Guardian",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/bridge-guardian.json"
+	},
+	"bureaucrat-1": {
+		"name": "Bureaucrat 1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/bureaucrat-1.json"
+	},
+	"butcher": {
+		"name": "Butcher",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/butcher.json"
+	},
+	"cannibal": {
+		"name": "Cannibal",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/cannibal.json"
+	},
+	"cannibal-alt_1": {
+		"name": "Cannibal Alt.1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/cannibal-alt_1.json"
+	},
+	"capt_-a_-ron-meyers": {
+		"name": "Capt. A. Ron Meyers",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/capt_-a_-ron-meyers.json"
+	},
+	"casino-bouncer-1": {
+		"name": "Casino Bouncer 1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/casino-bouncer-1.json"
+	},
+	"casino-girl": {
+		"name": "Casino Girl",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/casino-girl.json"
+	},
+	"cassidy---stage-1": {
+		"name": "Cassidy - Stage 1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/cassidy---stage-1.json"
+	},
+	"cassidy---stage-2": {
+		"name": "Cassidy - Stage 2",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/cassidy---stage-2.json"
+	},
+	"cassidy---stage-3": {
+		"name": "Cassidy - Stage 3",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/cassidy---stage-3.json"
+	},
+	"cassidy---stage-4": {
+		"name": "Cassidy - Stage 4",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/cassidy---stage-4.json"
+	},
+	"centaur": {
+		"name": "Centaur",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/centaur.json"
+	},
+	"chicken": {
+		"name": "Chicken",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/chicken.json"
+	},
+	"child-(female)": {
+		"name": "Child (Female)",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/child-(female).json"
+	},
+	"child-(male)": {
+		"name": "Child (Male)",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/child-(male).json"
+	},
+	"chip": {
+		"name": "Chip",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/chip.json"
+	},
+	"chris-wright": {
+		"name": "Chris Wright",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/chris-wright.json"
+	},
+	"citizen-(female)": {
+		"name": "Citizen (Female)",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/citizen-(female).json"
+	},
+	"citizen-(male)": {
+		"name": "Citizen (Male)",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/citizen-(male).json"
+	},
+	"clever-slave": {
+		"name": "Clever Slave",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/clever-slave.json"
+	},
+	"clever-slave-alt_1": {
+		"name": "Clever Slave Alt.1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/clever-slave-alt_1.json"
+	},
+	"combat-slave": {
+		"name": "Combat Slave",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/combat-slave.json"
+	},
+	"combat-slave-alt_1": {
+		"name": "Combat Slave Alt.1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/combat-slave-alt_1.json"
+	},
+	"corsican-bitches": {
+		"name": "Corsican Bitches",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/corsican-bitches.json"
+	},
+	"corsican-brothers": {
+		"name": "Corsican Brothers",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/corsican-brothers.json"
+	},
+	"crazies": {
+		"name": "Crazies",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/crazies.json"
+	},
+	"cute-slave": {
+		"name": "Cute Slave",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/cute-slave.json"
+	},
+	"cyberdog": {
+		"name": "Cyberdog",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/cyberdog.json"
+	},
+	"cyberdog---stage-1": {
+		"name": "Cyberdog - Stage 1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/cyberdog---stage-1.json"
+	},
+	"cyberdog---stage-2": {
+		"name": "Cyberdog - Stage 2",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/cyberdog---stage-2.json"
+	},
+	"cyberdog---stage-3": {
+		"name": "Cyberdog - Stage 3",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/cyberdog---stage-3.json"
+	},
+	"cyberdog---stage-4": {
+		"name": "Cyberdog - Stage 4",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/cyberdog---stage-4.json"
+	},
+	"dalia": {
+		"name": "Dalia",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/dalia.json"
+	},
+	"dar-alt_1": {
+		"name": "Dar Alt.1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/dar-alt_1.json"
+	},
+	"dave-h_": {
+		"name": "Dave H.",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/dave-h_.json"
+	},
+	"davin": {
+		"name": "Davin",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/davin.json"
+	},
+	"deathclaw": {
+		"name": "Deathclaw",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/deathclaw.json"
+	},
+	"deathclaw-alt_1": {
+		"name": "Deathclaw Alt.1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/deathclaw-alt_1.json"
+	},
+	"deathclaw-egg": {
+		"name": "Deathclaw Egg",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/deathclaw-egg.json"
+	},
+	"deathclaw-spawn": {
+		"name": "Deathclaw Spawn",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/deathclaw-spawn.json"
+	},
+	"doc-andrew": {
+		"name": "Doc Andrew",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/doc-andrew.json"
+	},
+	"doc-jones": {
+		"name": "Doc Jones",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/doc-jones.json"
+	},
+	"dock-worker": {
+		"name": "Dock Worker",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/dock-worker.json"
+	},
+	"dog": {
+		"name": "Dog",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/dog.json"
+	},
+	"dogmeat": {
+		"name": "Dogmeat",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/dogmeat.json"
+	},
+	"dogmeat---stage-1": {
+		"name": "Dogmeat - Stage 1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/dogmeat---stage-1.json"
+	},
+	"dogmeat---stage-2": {
+		"name": "Dogmeat - Stage 2",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/dogmeat---stage-2.json"
+	},
+	"dogmeat---stage-3": {
+		"name": "Dogmeat - Stage 3",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/dogmeat---stage-3.json"
+	},
+	"dogmeat---stage-4": {
+		"name": "Dogmeat - Stage 4",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/dogmeat---stage-4.json"
+	},
+	"dogmeat---stage-5": {
+		"name": "Dogmeat - Stage 5",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/dogmeat---stage-5.json"
+	},
+	"dogmeat---stage-6": {
+		"name": "Dogmeat - Stage 6",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/dogmeat---stage-6.json"
+	},
+	"dr_-fung": {
+		"name": "Dr. Fung",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/dr_-fung.json"
+	},
+	"dr_-troy": {
+		"name": "Dr. Troy",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/dr_-troy.json"
+	},
+	"drug-dealerpimp1": {
+		"name": "Drug DealerPimp1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/drug-dealerpimp1.json"
+	},
+	"drug-dealerpimp3": {
+		"name": "Drug DealerPimp3",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/drug-dealerpimp3.json"
+	},
+	"drug-dealerpimp4": {
+		"name": "Drug DealerPimp4",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/drug-dealerpimp4.json"
+	},
+	"dumar": {
+		"name": "Dumar",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/dumar.json"
+	},
+	"elder": {
+		"name": "Elder",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/elder.json"
+	},
+	"eldridge": {
+		"name": "Eldridge",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/eldridge.json"
+	},
+	"enclave-guard": {
+		"name": "Enclave Guard",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/enclave-guard.json"
+	},
+	"enclave-guard-alt_1": {
+		"name": "Enclave Guard Alt.1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/enclave-guard-alt_1.json"
+	},
+	"enclave-patrol": {
+		"name": "Enclave Patrol",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/enclave-patrol.json"
+	},
+	"enclave-patrol-alt_1": {
+		"name": "Enclave Patrol Alt.1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/enclave-patrol-alt_1.json"
+	},
+	"farmer": {
+		"name": "Farmer",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/farmer.json"
+	},
+	"farmer-alt_1": {
+		"name": "Farmer Alt.1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/farmer-alt_1.json"
+	},
+	"father-tully": {
+		"name": "Father Tully",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/father-tully.json"
+	},
+	"fire-gecko": {
+		"name": "Fire Gecko",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/fire-gecko.json"
+	},
+	"fisherman": {
+		"name": "Fisherman",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/fisherman.json"
+	},
+	"fisherwoman": {
+		"name": "Fisherwoman",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/fisherwoman.json"
+	},
+	"floater": {
+		"name": "Floater",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/floater.json"
+	},
+	"floating-eye-bot": {
+		"name": "Floating Eye Bot",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/floating-eye-bot.json"
+	},
+	"frank-horrigan": {
+		"name": "Frank Horrigan",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/frank-horrigan.json"
+	},
+	"generic-bartender-1": {
+		"name": "Generic Bartender 1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/generic-bartender-1.json"
+	},
+	"generic-cyberdog": {
+		"name": "Generic Cyberdog",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/generic-cyberdog.json"
+	},
+	"generic-ghoul": {
+		"name": "Generic Ghoul",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/generic-ghoul.json"
+	},
+	"generic-glowing-one": {
+		"name": "Generic Glowing One",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/generic-glowing-one.json"
+	},
+	"generic-slave": {
+		"name": "Generic Slave",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/generic-slave.json"
+	},
+	"generic-slave-alt_1": {
+		"name": "Generic Slave Alt.1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/generic-slave-alt_1.json"
+	},
+	"generic-slut-1": {
+		"name": "Generic Slut 1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/generic-slut-1.json"
+	},
+	"giant-ant": {
+		"name": "Giant Ant",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/giant-ant.json"
+	},
+	"glow-crazies": {
+		"name": "Glow Crazies",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/glow-crazies.json"
+	},
+	"glow-scavengers": {
+		"name": "Glow Scavengers",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/glow-scavengers.json"
+	},
+	"golden-gecko": {
+		"name": "Golden Gecko",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/golden-gecko.json"
+	},
+	"gordon": {
+		"name": "Gordon",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/gordon.json"
+	},
+	"goris": {
+		"name": "Goris",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/goris.json"
+	},
+	"goris---stage-1": {
+		"name": "Goris - Stage 1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/goris---stage-1.json"
+	},
+	"goris---stage-2": {
+		"name": "Goris - Stage 2",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/goris---stage-2.json"
+	},
+	"goris---stage-3": {
+		"name": "Goris - Stage 3",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/goris---stage-3.json"
+	},
+	"goris---stage-4": {
+		"name": "Goris - Stage 4",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/goris---stage-4.json"
+	},
+	"goris---stage-5": {
+		"name": "Goris - Stage 5",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/goris---stage-5.json"
+	},
+	"goris---stage-6": {
+		"name": "Goris - Stage 6",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/goris---stage-6.json"
+	},
+	"grand-master-trader": {
+		"name": "Grand Master Trader",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/grand-master-trader.json"
+	},
+	"grand-master-trader-alt_1": {
+		"name": "Grand Master Trader Alt.1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/grand-master-trader-alt_1.json"
+	},
+	"greater-mole-rat": {
+		"name": "Greater Mole Rat",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/greater-mole-rat.json"
+	},
+	"gregory": {
+		"name": "Gregory",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/gregory.json"
+	},
+	"grim-reaper": {
+		"name": "Grim Reaper",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/grim-reaper.json"
+	},
+	"grisham": {
+		"name": "Grisham",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/grisham.json"
+	},
+	"gruthar": {
+		"name": "Gruthar",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/gruthar.json"
+	},
+	"guard-1-alt_1": {
+		"name": "Guard 1 Alt.1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/guard-1-alt_1.json"
+	},
+	"guard-2": {
+		"name": "Guard 2",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/guard-2.json"
+	},
+	"guard-3": {
+		"name": "Guard 3",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/guard-3.json"
+	},
+	"gun-guard": {
+		"name": "Gun Guard",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/gun-guard.json"
+	},
+	"gun-guard-alt_1": {
+		"name": "Gun Guard Alt.1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/gun-guard-alt_1.json"
+	},
+	"gun-merchant": {
+		"name": "Gun Merchant",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/gun-merchant.json"
+	},
+	"gun-thug": {
+		"name": "Gun Thug",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/gun-thug.json"
+	},
+	"gun-thug-alt_1": {
+		"name": "Gun Thug Alt.1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/gun-thug-alt_1.json"
+	},
+	"gun-turret": {
+		"name": "Gun Turret",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/gun-turret.json"
+	},
+	"hakeswill": {
+		"name": "Hakeswill",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/hakeswill.json"
+	},
+	"hakunin": {
+		"name": "Hakunin",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/hakunin.json"
+	},
+	"handsome-slave": {
+		"name": "Handsome Slave",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/handsome-slave.json"
+	},
+	"harold": {
+		"name": "Harold",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/harold.json"
+	},
+	"healthy-slave": {
+		"name": "Healthy Slave",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/healthy-slave.json"
+	},
+	"healthy-slave-alt_1": {
+		"name": "Healthy Slave Alt.1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/healthy-slave-alt_1.json"
+	},
+	"herb": {
+		"name": "Herb",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/herb.json"
+	},
+	"hero-female": {
+		"name": "Hero Female",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/hero-female.json"
+	},
+	"hero-male": {
+		"name": "Hero Male",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/hero-male.json"
+	},
+	"holy-man": {
+		"name": "Holy Man",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/holy-man.json"
+	},
+	"holy-woman": {
+		"name": "Holy Woman",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/holy-woman.json"
+	},
+	"holyfeld": {
+		"name": "Holyfeld",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/holyfeld.json"
+	},
+	"homesteader": {
+		"name": "Homesteader",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/homesteader.json"
+	},
+	"homesteader-alt_1": {
+		"name": "Homesteader Alt.1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/homesteader-alt_1.json"
+	},
+	"hubologist": {
+		"name": "Hubologist",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/hubologist.json"
+	},
+	"hubologist-alt_1": {
+		"name": "Hubologist Alt.1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/hubologist-alt_1.json"
+	},
+	"hubologist-guard": {
+		"name": "Hubologist Guard",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/hubologist-guard.json"
+	},
+	"hubologist-guard-alt_1": {
+		"name": "Hubologist Guard Alt.1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/hubologist-guard-alt_1.json"
+	},
+	"imbot": {
+		"name": "Imbot",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/imbot.json"
+	},
+	"jagged-jimmy-j": {
+		"name": "Jagged Jimmy J",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/jagged-jimmy-j.json"
+	},
+	"jimmy": {
+		"name": "Jimmy",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/jimmy.json"
+	},
+	"jo-alt_1": {
+		"name": "Jo Alt.1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/jo-alt_1.json"
+	},
+	"jobe": {
+		"name": "Jobe",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/jobe.json"
+	},
+	"john-bishop": {
+		"name": "John Bishop",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/john-bishop.json"
+	},
+	"john-cassidy": {
+		"name": "John Cassidy",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/john-cassidy.json"
+	},
+	"jonny": {
+		"name": "Jonny",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/jonny.json"
+	},
+	"juan": {
+		"name": "Juan",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/juan.json"
+	},
+	"jules": {
+		"name": "Jules",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/jules.json"
+	},
+	"k-9-(base)": {
+		"name": "K-9 (base)",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/k-9-(base).json"
+	},
+	"k-9-(stage-1)": {
+		"name": "K-9 (stage 1)",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/k-9-(stage-1).json"
+	},
+	"k-9-(stage-2)": {
+		"name": "K-9 (stage 2)",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/k-9-(stage-2).json"
+	},
+	"k-9-(stage-3)": {
+		"name": "K-9 (stage 3)",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/k-9-(stage-3).json"
+	},
+	"k-9-(stage-4)": {
+		"name": "K-9 (stage 4)",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/k-9-(stage-4).json"
+	},
+	"karl": {
+		"name": "Karl",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/karl.json"
+	},
+	"keeng-ra'at": {
+		"name": "Keeng Ra'at",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/keeng-ra'at.json"
+	},
+	"keith-wright": {
+		"name": "Keith Wright",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/keith-wright.json"
+	},
+	"kid": {
+		"name": "Kid",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/kid.json"
+	},
+	"laddie": {
+		"name": "Laddie",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/laddie.json"
+	},
+	"lenny": {
+		"name": "Lenny",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/lenny.json"
+	},
+	"lenny---stage-1": {
+		"name": "Lenny - Stage 1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/lenny---stage-1.json"
+	},
+	"lenny---stage-2": {
+		"name": "Lenny - Stage 2",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/lenny---stage-2.json"
+	},
+	"lenny---stage-3": {
+		"name": "Lenny - Stage 3",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/lenny---stage-3.json"
+	},
+	"lil'-jesus": {
+		"name": "Lil' Jesus",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/lil'-jesus.json"
+	},
+	"little-gecko": {
+		"name": "Little Gecko",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/little-gecko.json"
+	},
+	"lo-pan": {
+		"name": "Lo Pan",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/lo-pan.json"
+	},
+	"lo-pan-guard": {
+		"name": "Lo Pan Guard",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/lo-pan-guard.json"
+	},
+	"lo-pan-peasant": {
+		"name": "Lo Pan Peasant",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/lo-pan-peasant.json"
+	},
+	"lo-pan-peasant-alt_1": {
+		"name": "Lo Pan Peasant Alt.1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/lo-pan-peasant-alt_1.json"
+	},
+	"loopal": {
+		"name": "Loopal",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/loopal.json"
+	},
+	"loser": {
+		"name": "Loser",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/loser.json"
+	},
+	"loser-alt_1": {
+		"name": "Loser Alt.1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/loser-alt_1.json"
+	},
+	"lumpy": {
+		"name": "Lumpy",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/lumpy.json"
+	},
+	"lynette": {
+		"name": "Lynette",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/lynette.json"
+	},
+	"maida-buckner": {
+		"name": "Maida Buckner",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/maida-buckner.json"
+	},
+	"mantis": {
+		"name": "Mantis",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/mantis.json"
+	},
+	"mantis-alt_1": {
+		"name": "Mantis Alt.1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/mantis-alt_1.json"
+	},
+	"marc-alt_1": {
+		"name": "Marc Alt.1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/marc-alt_1.json"
+	},
+	"marcus": {
+		"name": "Marcus",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/marcus.json"
+	},
+	"marcus---stage-1": {
+		"name": "Marcus - Stage 1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/marcus---stage-1.json"
+	},
+	"marcus---stage-2": {
+		"name": "Marcus - Stage 2",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/marcus---stage-2.json"
+	},
+	"marcus---stage-3": {
+		"name": "Marcus - Stage 3",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/marcus---stage-3.json"
+	},
+	"marcus---stage-4": {
+		"name": "Marcus - Stage 4",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/marcus---stage-4.json"
+	},
+	"marcus---stage-5": {
+		"name": "Marcus - Stage 5",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/marcus---stage-5.json"
+	},
+	"marjorie": {
+		"name": "Marjorie",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/marjorie.json"
+	},
+	"mason": {
+		"name": "Mason",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/mason.json"
+	},
+	"master-khung": {
+		"name": "Master Khung",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/master-khung.json"
+	},
+	"master-krall": {
+		"name": "Master Krall",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/master-krall.json"
+	},
+	"master-trader": {
+		"name": "Master Trader",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/master-trader.json"
+	},
+	"master-trader-alt_1": {
+		"name": "Master Trader Alt.1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/master-trader-alt_1.json"
+	},
+	"matt": {
+		"name": "Matt",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/matt.json"
+	},
+	"maurader": {
+		"name": "Maurader",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/maurader.json"
+	},
+	"maurader-alt_1": {
+		"name": "Maurader Alt.1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/maurader-alt_1.json"
+	},
+	"mcgee": {
+		"name": "McGee",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/mcgee.json"
+	},
+	"mckneely": {
+		"name": "McKneely",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/mckneely.json"
+	},
+	"mean-centaur": {
+		"name": "Mean Centaur",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/mean-centaur.json"
+	},
+	"melchoir": {
+		"name": "Melchoir",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/melchoir.json"
+	},
+	"melee-guard": {
+		"name": "Melee Guard",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/melee-guard.json"
+	},
+	"melee-guard-alt_1": {
+		"name": "Melee Guard Alt.1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/melee-guard-alt_1.json"
+	},
+	"melee-thug": {
+		"name": "Melee Thug",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/melee-thug.json"
+	},
+	"melee-thug-alt_1": {
+		"name": "Melee Thug Alt.1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/melee-thug-alt_1.json"
+	},
+	"merc-alt_1": {
+		"name": "Merc Alt.1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/merc-alt_1.json"
+	},
+	"mercenary": {
+		"name": "Mercenary",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/mercenary.json"
+	},
+	"mercenary-alt_1": {
+		"name": "Mercenary Alt.1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/mercenary-alt_1.json"
+	},
+	"mercenary-alt_2": {
+		"name": "Mercenary Alt.2",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/mercenary-alt_2.json"
+	},
+	"mercenary-captain": {
+		"name": "Mercenary Captain",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/mercenary-captain.json"
+	},
+	"metzger": {
+		"name": "Metzger",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/metzger.json"
+	},
+	"mike-the-masticator": {
+		"name": "Mike the Masticator",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/mike-the-masticator.json"
+	},
+	"mikey": {
+		"name": "Mikey",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/mikey.json"
+	},
+	"miria": {
+		"name": "Miria",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/miria.json"
+	},
+	"miss-kitty": {
+		"name": "Miss Kitty",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/miss-kitty.json"
+	},
+	"mobster": {
+		"name": "Mobster",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/mobster.json"
+	},
+	"mole-rat": {
+		"name": "Mole Rat",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/mole-rat.json"
+	},
+	"molerat-fighter": {
+		"name": "Molerat Fighter",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/molerat-fighter.json"
+	},
+	"molerat-fighter-alt_1": {
+		"name": "Molerat Fighter Alt.1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/molerat-fighter-alt_1.json"
+	},
+	"molerat-fighter-alt_2": {
+		"name": "Molerat Fighter Alt.2",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/molerat-fighter-alt_2.json"
+	},
+	"molerat-fighter-alt_3": {
+		"name": "Molerat Fighter Alt.3",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/molerat-fighter-alt_3.json"
+	},
+	"molerat-fighter-alt_4": {
+		"name": "Molerat Fighter Alt.4",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/molerat-fighter-alt_4.json"
+	},
+	"molerat-fighter-alt_5": {
+		"name": "Molerat Fighter Alt.5",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/molerat-fighter-alt_5.json"
+	},
+	"mordino-men-1": {
+		"name": "Mordino Men 1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/mordino-men-1.json"
+	},
+	"mother-deathclaw": {
+		"name": "Mother Deathclaw",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/mother-deathclaw.json"
+	},
+	"mr_-salvatore": {
+		"name": "Mr. Salvatore",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/mr_-salvatore.json"
+	},
+	"mr_-wright": {
+		"name": "Mr. Wright",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/mr_-wright.json"
+	},
+	"mrs_-bishop": {
+		"name": "Mrs. Bishop",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/mrs_-bishop.json"
+	},
+	"mrs_-wright": {
+		"name": "Mrs. Wright",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/mrs_-wright.json"
+	},
+	"mutated-mole-rat": {
+		"name": "Mutated Mole Rat",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/mutated-mole-rat.json"
+	},
+	"mutated-pig-rat": {
+		"name": "Mutated Pig Rat",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/mutated-pig-rat.json"
+	},
+	"mutated-rat": {
+		"name": "Mutated Rat",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/mutated-rat.json"
+	},
+	"mynoc": {
+		"name": "Mynoc",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/mynoc.json"
+	},
+	"myron": {
+		"name": "Myron",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/myron.json"
+	},
+	"myron's-guard-1": {
+		"name": "Myron's Guard 1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/myron's-guard-1.json"
+	},
+	"myron---stage-1": {
+		"name": "Myron - Stage 1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/myron---stage-1.json"
+	},
+	"myron---stage-2": {
+		"name": "Myron - Stage 2",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/myron---stage-2.json"
+	},
+	"myron---stage-3": {
+		"name": "Myron - Stage 3",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/myron---stage-3.json"
+	},
+	"myron---stage-4": {
+		"name": "Myron - Stage 4",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/myron---stage-4.json"
+	},
+	"mysterious-stranger": {
+		"name": "Mysterious Stranger",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/mysterious-stranger.json"
+	},
+	"mysterious-stranger-alt_1": {
+		"name": "Mysterious Stranger Alt.1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/mysterious-stranger-alt_1.json"
+	},
+	"mysterious-stranger-alt_2": {
+		"name": "Mysterious Stranger Alt.2",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/mysterious-stranger-alt_2.json"
+	},
+	"mysterious-stranger-alt_3": {
+		"name": "Mysterious Stranger Alt.3",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/mysterious-stranger-alt_3.json"
+	},
+	"mysterious-stranger-alt_4": {
+		"name": "Mysterious Stranger Alt.4",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/mysterious-stranger-alt_4.json"
+	},
+	"mysterious-stranger-alt_5": {
+		"name": "Mysterious Stranger Alt.5",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/mysterious-stranger-alt_5.json"
+	},
+	"mysterious-stranger-alt_5-alt_1": {
+		"name": "Mysterious Stranger Alt.5 Alt.1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/mysterious-stranger-alt_5-alt_1.json"
+	},
+	"mysterious-stranger-alt_5-alt_2": {
+		"name": "Mysterious Stranger Alt.5 Alt.2",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/mysterious-stranger-alt_5-alt_2.json"
+	},
+	"mysterious-stranger-alt_5-alt_3": {
+		"name": "Mysterious Stranger Alt.5 Alt.3",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/mysterious-stranger-alt_5-alt_3.json"
+	},
+	"mysterious-stranger-alt_5-alt_4": {
+		"name": "Mysterious Stranger Alt.5 Alt.4",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/mysterious-stranger-alt_5-alt_4.json"
+	},
+	"nasty-floater": {
+		"name": "Nasty Floater",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/nasty-floater.json"
+	},
+	"ncr-bartender": {
+		"name": "NCR Bartender",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/ncr-bartender.json"
+	},
+	"ncr-guard": {
+		"name": "NCR Guard",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/ncr-guard.json"
+	},
+	"ncr-guard-alt_1": {
+		"name": "NCR Guard Alt.1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/ncr-guard-alt_1.json"
+	},
+	"ncr-melee-guard": {
+		"name": "NCR Melee Guard",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/ncr-melee-guard.json"
+	},
+	"ncr-ranger": {
+		"name": "NCR Ranger",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/ncr-ranger.json"
+	},
+	"ncr-ranger-alt_1": {
+		"name": "NCR Ranger Alt.1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/ncr-ranger-alt_1.json"
+	},
+	"nightkin": {
+		"name": "Nightkin",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/nightkin.json"
+	},
+	"nomad--low": {
+		"name": "Nomad- Low",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/nomad--low.json"
+	},
+	"nomad--low-alt_1": {
+		"name": "Nomad- Low Alt.1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/nomad--low-alt_1.json"
+	},
+	"nomad--med": {
+		"name": "Nomad- Med",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/nomad--med.json"
+	},
+	"nomad--med-alt_1": {
+		"name": "Nomad- Med Alt.1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/nomad--med-alt_1.json"
+	},
+	"orphan-(female)": {
+		"name": "Orphan (Female)",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/orphan-(female).json"
+	},
+	"orphan-(male)": {
+		"name": "Orphan (Male)",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/orphan-(male).json"
+	},
+	"pariah-dog": {
+		"name": "Pariah Dog",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/pariah-dog.json"
+	},
+	"petey": {
+		"name": "Petey",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/petey.json"
+	},
+	"phil": {
+		"name": "Phil",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/phil.json"
+	},
+	"pig-rat": {
+		"name": "Pig Rat",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/pig-rat.json"
+	},
+	"powerful-mutant": {
+		"name": "Powerful Mutant",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/powerful-mutant.json"
+	},
+	"pres_-bodyguard": {
+		"name": "Pres. Bodyguard",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/pres_-bodyguard.json"
+	},
+	"president": {
+		"name": "President",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/president.json"
+	},
+	"press-gang": {
+		"name": "Press Gang",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/press-gang.json"
+	},
+	"press-gang-alt_1": {
+		"name": "Press Gang Alt.1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/press-gang-alt_1.json"
+	},
+	"pretty-boy-lloyd": {
+		"name": "Pretty Boy Lloyd",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/pretty-boy-lloyd.json"
+	},
+	"primitive-hunter": {
+		"name": "Primitive Hunter",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/primitive-hunter.json"
+	},
+	"primitive-hunter-alt_1": {
+		"name": "Primitive Hunter Alt.1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/primitive-hunter-alt_1.json"
+	},
+	"prospector": {
+		"name": "Prospector",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/prospector.json"
+	},
+	"prospector-alt_1": {
+		"name": "Prospector Alt.1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/prospector-alt_1.json"
+	},
+	"punk": {
+		"name": "Punk",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/punk.json"
+	},
+	"punk-alt_1": {
+		"name": "Punk Alt.1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/punk-alt_1.json"
+	},
+	"queen-alien": {
+		"name": "Queen Alien",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/queen-alien.json"
+	},
+	"radscorpion": {
+		"name": "Radscorpion",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/radscorpion.json"
+	},
+	"radscorpion-alt_1": {
+		"name": "Radscorpion Alt.1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/radscorpion-alt_1.json"
+	},
+	"raider": {
+		"name": "Raider",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/raider.json"
+	},
+	"raider-alt_1": {
+		"name": "Raider Alt.1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/raider-alt_1.json"
+	},
+	"ranch-hand": {
+		"name": "Ranch Hand",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/ranch-hand.json"
+	},
+	"ranch-hand-alt_1": {
+		"name": "Ranch Hand Alt.1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/ranch-hand-alt_1.json"
+	},
+	"ranch-hand-alt_2": {
+		"name": "Ranch Hand Alt.2",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/ranch-hand-alt_2.json"
+	},
+	"rat": {
+		"name": "Rat",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/rat.json"
+	},
+	"ratch": {
+		"name": "Ratch",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/ratch.json"
+	},
+	"reactor-ghoul": {
+		"name": "Reactor Ghoul",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/reactor-ghoul.json"
+	},
+	"reactor-ghoul-alt_1": {
+		"name": "Reactor Ghoul Alt.1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/reactor-ghoul-alt_1.json"
+	},
+	"reactor-glowing-one": {
+		"name": "Reactor Glowing One",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/reactor-glowing-one.json"
+	},
+	"reactor-guard": {
+		"name": "Reactor Guard",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/reactor-guard.json"
+	},
+	"renesco": {
+		"name": "Renesco",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/renesco.json"
+	},
+	"repair-bot": {
+		"name": "Repair Bot",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/repair-bot.json"
+	},
+	"repair-bot-mark-ii": {
+		"name": "Repair Bot Mark II",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/repair-bot-mark-ii.json"
+	},
+	"robobrain": {
+		"name": "Robobrain",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/robobrain.json"
+	},
+	"robobrain---abnormal": {
+		"name": "Robobrain - Abnormal",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/robobrain---abnormal.json"
+	},
+	"robobrain---chimp": {
+		"name": "RoboBrain - Chimp",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/robobrain---chimp.json"
+	},
+	"robobrain---human": {
+		"name": "Robobrain - Human",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/robobrain---human.json"
+	},
+	"robobrain---stage-1": {
+		"name": "Robobrain - Stage 1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/robobrain---stage-1.json"
+	},
+	"robobrain---stage-2": {
+		"name": "Robobrain - Stage 2",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/robobrain---stage-2.json"
+	},
+	"robobrain---stage-3": {
+		"name": "Robobrain - Stage 3",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/robobrain---stage-3.json"
+	},
+	"robobrain---stage-4": {
+		"name": "Robobrain - Stage 4",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/robobrain---stage-4.json"
+	},
+	"robobrain---stage-5": {
+		"name": "Robobrain - Stage 5",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/robobrain---stage-5.json"
+	},
+	"robobrain-alt_1": {
+		"name": "Robobrain Alt.1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/robobrain-alt_1.json"
+	},
+	"rondo": {
+		"name": "Rondo",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/rondo.json"
+	},
+	"rube": {
+		"name": "Rube",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/rube.json"
+	},
+	"salvatore-thug-1": {
+		"name": "Salvatore Thug 1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/salvatore-thug-1.json"
+	},
+	"scavengers": {
+		"name": "Scavengers",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/scavengers.json"
+	},
+	"scientist": {
+		"name": "Scientist",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/scientist.json"
+	},
+	"sentry-bot": {
+		"name": "Sentry Bot",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/sentry-bot.json"
+	},
+	"sentry-bot-mark-ii": {
+		"name": "Sentry Bot Mark II",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/sentry-bot-mark-ii.json"
+	},
+	"sgt_-stark": {
+		"name": "Sgt. Stark",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/sgt_-stark.json"
+	},
+	"shadow-who-walks": {
+		"name": "Shadow-Who-Walks",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/shadow-who-walks.json"
+	},
+	"shi-guard": {
+		"name": "Shi Guard",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/shi-guard.json"
+	},
+	"shi-lab-tech": {
+		"name": "Shi Lab Tech",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/shi-lab-tech.json"
+	},
+	"shi-merchant": {
+		"name": "Shi Merchant",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/shi-merchant.json"
+	},
+	"shi-peasant": {
+		"name": "Shi Peasant",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/shi-peasant.json"
+	},
+	"shi-peasant-alt_1": {
+		"name": "Shi Peasant Alt.1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/shi-peasant-alt_1.json"
+	},
+	"shop-owner": {
+		"name": "Shop Owner",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/shop-owner.json"
+	},
+	"skeeter": {
+		"name": "Skeeter",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/skeeter.json"
+	},
+	"skeeter-alt_1": {
+		"name": "Skeeter Alt.1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/skeeter-alt_1.json"
+	},
+	"slaver-alt_1": {
+		"name": "Slaver Alt.1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/slaver-alt_1.json"
+	},
+	"slaver-alt_2": {
+		"name": "Slaver Alt.2",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/slaver-alt_2.json"
+	},
+	"slaver-guard": {
+		"name": "Slaver Guard",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/slaver-guard.json"
+	},
+	"slaver-overseer": {
+		"name": "Slaver Overseer",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/slaver-overseer.json"
+	},
+	"sm-tough-deathclaw": {
+		"name": "Sm Tough Deathclaw",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/sm-tough-deathclaw.json"
+	},
+	"smitty": {
+		"name": "Smitty",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/smitty.json"
+	},
+	"soldier-1": {
+		"name": "Soldier 1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/soldier-1.json"
+	},
+	"soldier-2": {
+		"name": "Soldier 2",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/soldier-2.json"
+	},
+	"soldier-3": {
+		"name": "Soldier 3",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/soldier-3.json"
+	},
+	"special-gecko-critter": {
+		"name": "Special Gecko Critter",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/special-gecko-critter.json"
+	},
+	"spore-plant": {
+		"name": "Spore Plant",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/spore-plant.json"
+	},
+	"spud": {
+		"name": "Spud",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/spud.json"
+	},
+	"strong-peasant": {
+		"name": "Strong Peasant",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/strong-peasant.json"
+	},
+	"strong-peasant-alt_1": {
+		"name": "Strong Peasant Alt.1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/strong-peasant-alt_1.json"
+	},
+	"strong-slave": {
+		"name": "Strong Slave",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/strong-slave.json"
+	},
+	"strong-slave-alt_1": {
+		"name": "Strong Slave Alt.1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/strong-slave-alt_1.json"
+	},
+	"strong-slaver": {
+		"name": "Strong Slaver",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/strong-slaver.json"
+	},
+	"strong-slaver-alt_1": {
+		"name": "Strong Slaver Alt.1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/strong-slaver-alt_1.json"
+	},
+	"stuart-little": {
+		"name": "Stuart Little",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/stuart-little.json"
+	},
+	"sulik": {
+		"name": "Sulik",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/sulik.json"
+	},
+	"sulik---stage-1": {
+		"name": "Sulik - Stage 1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/sulik---stage-1.json"
+	},
+	"sulik---stage-2": {
+		"name": "Sulik - Stage 2",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/sulik---stage-2.json"
+	},
+	"sulik---stage-3": {
+		"name": "Sulik - Stage 3",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/sulik---stage-3.json"
+	},
+	"sulik---stage-4": {
+		"name": "Sulik - Stage 4",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/sulik---stage-4.json"
+	},
+	"sulik---stage-5": {
+		"name": "Sulik - Stage 5",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/sulik---stage-5.json"
+	},
+	"sulik---stage-6": {
+		"name": "Sulik - Stage 6",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/sulik---stage-6.json"
+	},
+	"super-mutant": {
+		"name": "Super Mutant",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/super-mutant.json"
+	},
+	"tandi": {
+		"name": "Tandi",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/tandi.json"
+	},
+	"technicion": {
+		"name": "Technicion",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/technicion.json"
+	},
+	"the-brain": {
+		"name": "The Brain",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/the-brain.json"
+	},
+	"the-dragon": {
+		"name": "The Dragon",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/the-dragon.json"
+	},
+	"torr": {
+		"name": "Torr",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/torr.json"
+	},
+	"tough-alien": {
+		"name": "Tough Alien",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/tough-alien.json"
+	},
+	"tough-deathclaw-alt_1": {
+		"name": "Tough Deathclaw Alt.1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/tough-deathclaw-alt_1.json"
+	},
+	"tough-fire-gecko": {
+		"name": "Tough Fire Gecko",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/tough-fire-gecko.json"
+	},
+	"tough-ghoul": {
+		"name": "Tough Ghoul",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/tough-ghoul.json"
+	},
+	"tough-giant-ant": {
+		"name": "Tough Giant Ant",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/tough-giant-ant.json"
+	},
+	"tough-golden-gecko": {
+		"name": "Tough Golden Gecko",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/tough-golden-gecko.json"
+	},
+	"tough-guard": {
+		"name": "Tough Guard",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/tough-guard.json"
+	},
+	"tough-guard-alt_1": {
+		"name": "Tough Guard Alt.1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/tough-guard-alt_1.json"
+	},
+	"tough-lil-gecko": {
+		"name": "Tough Lil Gecko",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/tough-lil-gecko.json"
+	},
+	"tough-nightkin": {
+		"name": "Tough Nightkin",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/tough-nightkin.json"
+	},
+	"tough-pig-rat": {
+		"name": "Tough Pig Rat",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/tough-pig-rat.json"
+	},
+	"tough-thug": {
+		"name": "Tough Thug",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/tough-thug.json"
+	},
+	"tough-thug-alt_1": {
+		"name": "Tough Thug Alt.1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/tough-thug-alt_1.json"
+	},
+	"trader-1": {
+		"name": "Trader 1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/trader-1.json"
+	},
+	"trapper": {
+		"name": "Trapper",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/trapper.json"
+	},
+	"trapper-alt_1": {
+		"name": "Trapper Alt.1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/trapper-alt_1.json"
+	},
+	"up-class-citizen-(f)": {
+		"name": "Up Class Citizen (F)",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/up-class-citizen-(f).json"
+	},
+	"up-class-citizen-(m)": {
+		"name": "Up Class Citizen (M)",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/up-class-citizen-(m).json"
+	},
+	"vault-13-man": {
+		"name": "Vault 13 Man",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/vault-13-man.json"
+	},
+	"vault-13-woman": {
+		"name": "Vault 13 Woman",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/vault-13-woman.json"
+	},
+	"vault-city-guard": {
+		"name": "Vault City Guard",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/vault-city-guard.json"
+	},
+	"vault-city-guard-alt_1": {
+		"name": "Vault City Guard Alt.1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/vault-city-guard-alt_1.json"
+	},
+	"vault-city-patrol": {
+		"name": "Vault City Patrol",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/vault-city-patrol.json"
+	},
+	"vault-city-patrol-alt_1": {
+		"name": "Vault City Patrol Alt.1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/vault-city-patrol-alt_1.json"
+	},
+	"vic": {
+		"name": "Vic",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/vic.json"
+	},
+	"vic---stage-1": {
+		"name": "Vic - Stage 1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/vic---stage-1.json"
+	},
+	"vic---stage-2": {
+		"name": "Vic - Stage 2",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/vic---stage-2.json"
+	},
+	"vic---stage-3": {
+		"name": "Vic - Stage 3",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/vic---stage-3.json"
+	},
+	"vic---stage-4": {
+		"name": "Vic - Stage 4",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/vic---stage-4.json"
+	},
+	"vic---stage-5": {
+		"name": "Vic - Stage 5",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/vic---stage-5.json"
+	},
+	"vic---stage-6": {
+		"name": "Vic - Stage 6",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/vic---stage-6.json"
+	},
+	"vice-president": {
+		"name": "Vice President",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/vice-president.json"
+	},
+	"vikki": {
+		"name": "Vikki",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/vikki.json"
+	},
+	"villager": {
+		"name": "Villager",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/villager.json"
+	},
+	"villager-alt_1": {
+		"name": "Villager Alt.1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/villager-alt_1.json"
+	},
+	"vorpal-rat": {
+		"name": "Vorpal Rat",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/vorpal-rat.json"
+	},
+	"wanamingo-egg": {
+		"name": "Wanamingo Egg",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/wanamingo-egg.json"
+	},
+	"weak-brahmin": {
+		"name": "Weak Brahmin",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/weak-brahmin.json"
+	},
+	"weak-gun-guard": {
+		"name": "Weak Gun Guard",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/weak-gun-guard.json"
+	},
+	"weak-gun-guard-alt_1": {
+		"name": "Weak Gun Guard Alt.1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/weak-gun-guard-alt_1.json"
+	},
+	"weak-melee-guard": {
+		"name": "Weak Melee Guard",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/weak-melee-guard.json"
+	},
+	"weak-melee-guard-alt_1": {
+		"name": "Weak Melee Guard Alt.1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/weak-melee-guard-alt_1.json"
+	},
+	"weak-mr_-handy": {
+		"name": "Weak Mr. Handy",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/weak-mr_-handy.json"
+	},
+	"weak-peasant": {
+		"name": "Weak Peasant",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/weak-peasant.json"
+	},
+	"weak-peasant-alt_1": {
+		"name": "Weak Peasant Alt.1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/weak-peasant-alt_1.json"
+	},
+	"wejungh": {
+		"name": "Wejungh",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/wejungh.json"
+	},
+	"wild-brahmin": {
+		"name": "Wild Brahmin",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/wild-brahmin.json"
+	},
+	"wild-dog": {
+		"name": "Wild Dog",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/wild-dog.json"
+	},
+	"wilder": {
+		"name": "Wilder",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/wilder.json"
+	},
+	"wilder-alt_1": {
+		"name": "Wilder Alt.1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/wilder-alt_1.json"
+	},
+	"wooz": {
+		"name": "Wooz",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/wooz.json"
+	},
+	"wright-daughter-1": {
+		"name": "Wright Daughter 1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/wright-daughter-1.json"
+	},
+	"wright-son-1": {
+		"name": "Wright Son 1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/wright-son-1.json"
+	},
+	"yakuza": {
+		"name": "Yakuza",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/yakuza.json"
+	},
+	"zeke": {
+		"name": "Zeke",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/zeke.json"
+	},
+	"ziggy": {
+		"name": "Ziggy",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/ziggy.json"
+	},
+	"zomak": {
+		"name": "Zomak",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/zomak.json"
+	},
+	"zurak": {
+		"name": "Zurak",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/zurak.json"
+	}
+}
