@@ -41,23 +41,28 @@
 	},
 	"apprentice-knight---fallout-1": {
 		"name": "Apprentice Knight - Fallout 1",
-		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/apprentice-knight---fallout-1.json"
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/apprentice-knight---fallout-1.json",
+		"genre": "brotherhood"
 	},
 	"apprentice-knight-alt_1---fallout-1": {
 		"name": "Apprentice Knight Alt.1 - Fallout 1",
-		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/apprentice-knight-alt_1---fallout-1.json"
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/apprentice-knight-alt_1---fallout-1.json",
+		"genre": "brotherhood"
 	},
 	"apprentice-scribe---fallout-1": {
 		"name": "Apprentice Scribe - Fallout 1",
-		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/apprentice-scribe---fallout-1.json"
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/apprentice-scribe---fallout-1.json",
+		"genre": "brotherhood"
 	},
 	"apprentice-scribe-alt_1---fallout-1": {
 		"name": "Apprentice Scribe Alt.1 - Fallout 1",
-		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/apprentice-scribe-alt_1---fallout-1.json"
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/apprentice-scribe-alt_1---fallout-1.json",
+		"genre": "brotherhood"
 	},
 	"aradesh---fallout-1": {
 		"name": "Aradesh - Fallout 1",
-		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/aradesh---fallout-1.json"
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/aradesh---fallout-1.json",
+		"genre": "ncr"
 	},
 	"auto-cannon---fallout-2": {
 		"name": "Auto-Cannon - Fallout 2",
@@ -1849,27 +1854,33 @@
 	},
 	"ncr-bartender---fallout-2": {
 		"name": "NCR Bartender - Fallout 2",
-		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/ncr-bartender---fallout-2.json"
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/ncr-bartender---fallout-2.json",
+		"genre": "ncr"
 	},
 	"ncr-guard---fallout-2": {
 		"name": "NCR Guard - Fallout 2",
-		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/ncr-guard---fallout-2.json"
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/ncr-guard---fallout-2.json",
+		"genre": "ncr"
 	},
 	"ncr-guard-alt_1---fallout-2": {
 		"name": "NCR Guard Alt.1 - Fallout 2",
-		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/ncr-guard-alt_1---fallout-2.json"
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/ncr-guard-alt_1---fallout-2.json",
+		"genre": "ncr"
 	},
 	"ncr-melee-guard---fallout-2": {
 		"name": "NCR Melee Guard - Fallout 2",
-		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/ncr-melee-guard---fallout-2.json"
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/ncr-melee-guard---fallout-2.json",
+		"genre": "ncr"
 	},
 	"ncr-ranger---fallout-2": {
 		"name": "NCR Ranger - Fallout 2",
-		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/ncr-ranger---fallout-2.json"
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/ncr-ranger---fallout-2.json",
+		"genre": "ncr"
 	},
 	"ncr-ranger-alt_1---fallout-2": {
 		"name": "NCR Ranger Alt.1 - Fallout 2",
-		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/ncr-ranger-alt_1---fallout-2.json"
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/ncr-ranger-alt_1---fallout-2.json",
+		"genre": "ncr"
 	},
 	"neal---fallout-1": {
 		"name": "Neal - Fallout 1",
@@ -2233,51 +2244,63 @@
 	},
 	"scribe---fallout-1": {
 		"name": "Scribe - Fallout 1",
-		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/scribe---fallout-1.json"
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/scribe---fallout-1.json",
+		"genre": "brotherhood"
 	},
 	"scribe-alt_1---fallout-1": {
 		"name": "Scribe Alt.1 - Fallout 1",
-		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/scribe-alt_1---fallout-1.json"
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/scribe-alt_1---fallout-1.json",
+		"genre": "brotherhood"
 	},
 	"senior-initiate-knight---fallout-1": {
 		"name": "Senior Initiate Knight - Fallout 1",
-		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/senior-initiate-knight---fallout-1.json"
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/senior-initiate-knight---fallout-1.json",
+		"genre": "brotherhood"
 	},
 	"senior-initiate-knight-alt_1---fallout-1": {
 		"name": "Senior Initiate Knight Alt.1 - Fallout 1",
-		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/senior-initiate-knight-alt_1---fallout-1.json"
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/senior-initiate-knight-alt_1---fallout-1.json",
+		"genre": "brotherhood"
 	},
 	"senior-initiate-scribe---fallout-1": {
 		"name": "Senior Initiate Scribe - Fallout 1",
-		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/senior-initiate-scribe---fallout-1.json"
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/senior-initiate-scribe---fallout-1.json",
+		"genre": "brotherhood"
 	},
 	"senior-initiate-scribe-alt_1---fallout-1": {
 		"name": "Senior Initiate Scribe Alt.1 - Fallout 1",
-		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/senior-initiate-scribe-alt_1---fallout-1.json"
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/senior-initiate-scribe-alt_1---fallout-1.json",
+		"genre": "brotherhood"
 	},
 	"senior-knight---fallout-1": {
 		"name": "Senior Knight - Fallout 1",
-		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/senior-knight---fallout-1.json"
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/senior-knight---fallout-1.json",
+		"genre": "brotherhood"
 	},
 	"senior-knight-alt_1---fallout-1": {
 		"name": "Senior Knight Alt.1 - Fallout 1",
-		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/senior-knight-alt_1---fallout-1.json"
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/senior-knight-alt_1---fallout-1.json",
+		"genre": "brotherhood"
 	},
 	"senior-paladin---fallout-1": {
 		"name": "Senior Paladin - Fallout 1",
-		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/senior-paladin---fallout-1.json"
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/senior-paladin---fallout-1.json",
+		"genre": "brotherhood"
 	},
 	"senior-paladin-alt_1---fallout-1": {
 		"name": "Senior Paladin Alt.1 - Fallout 1",
-		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/senior-paladin-alt_1---fallout-1.json"
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/senior-paladin-alt_1---fallout-1.json",
+		"genre": "brotherhood"
 	},
 	"senior-scribe---fallout-1": {
 		"name": "Senior Scribe - Fallout 1",
-		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/senior-scribe---fallout-1.json"
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/senior-scribe---fallout-1.json",
+		"genre": "brotherhood"
 	},
 	"senior-scribe-alt_1---fallout-1": {
 		"name": "Senior Scribe Alt.1 - Fallout 1",
-		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/senior-scribe-alt_1---fallout-1.json"
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/senior-scribe-alt_1---fallout-1.json",
+		"genre": "brotherhood"
 	},
 	"sentry-bot---fallout-2": {
 		"name": "Sentry Bot - Fallout 2",
@@ -2529,11 +2552,13 @@
 	},
 	"tandi---fallout-2": {
 		"name": "Tandi - Fallout 2",
-		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/tandi---fallout-2.json"
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/tandi---fallout-2.json",
+		"genre": "ncr"
 	},
 	"tandi-alt_1---fallout-1": {
 		"name": "Tandi Alt.1 - Fallout 1",
-		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/tandi-alt_1---fallout-1.json"
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/tandi-alt_1---fallout-1.json",
+		"genre": "ncr"
 	},
 	"tangler---fallout-1": {
 		"name": "Tangler - Fallout 1",
