@@ -1,7 +1,12 @@
 {
 	"folders": [
 		{
+			"name": "FalloutDatabase",
 			"path": "."
+		},
+		{
+			"name": "critter-data",
+			"path": "D:/JavaScript Projects/FalloutAPI/database/critter-data"
 		}
 	],
 	"settings": {}
