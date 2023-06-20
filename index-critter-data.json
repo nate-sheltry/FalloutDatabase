@@ -64,7 +64,7 @@
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/auto-cannon---fallout-2.json"
 	},
 	"avellone---fallout-1": {
-		"name": "Avellone - Fallout 1",
+		"name": "Chris Avellone - Fallout 1",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/avellone---fallout-1.json"
 	},
 	"average-merchant---fallout-2": {
@@ -1451,6 +1451,10 @@
 		"name": "Mason - Fallout 2",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/mason---fallout-2.json"
 	},
+	"master---fallout-1": {
+		"name": "The Master - Fallout 1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/master---fallout-1.json"
+	},
 	"master's-child---fallout-1": {
 		"name": "Master's Child - Fallout 1",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/master's-child---fallout-1.json"
@@ -1482,10 +1486,6 @@
 	"master's-thug-alt_1---fallout-1": {
 		"name": "Master's Thug Alt.1 - Fallout 1",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/master's-thug-alt_1---fallout-1.json"
-	},
-	"master---fallout-1": {
-		"name": "Master - Fallout 1",
-		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/master---fallout-1.json"
 	},
 	"master-khung---fallout-2": {
 		"name": "Master Khung - Fallout 2",
