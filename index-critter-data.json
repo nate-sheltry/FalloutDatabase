@@ -42,27 +42,27 @@
 	"apprentice-knight---fallout-1": {
 		"name": "Apprentice Knight - Fallout 1",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/apprentice-knight---fallout-1.json",
-		"genre": "brotherhood"
+		"faction": "brotherhood"
 	},
 	"apprentice-knight-alt_1---fallout-1": {
 		"name": "Apprentice Knight Alt.1 - Fallout 1",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/apprentice-knight-alt_1---fallout-1.json",
-		"genre": "brotherhood"
+		"faction": "brotherhood"
 	},
 	"apprentice-scribe---fallout-1": {
 		"name": "Apprentice Scribe - Fallout 1",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/apprentice-scribe---fallout-1.json",
-		"genre": "brotherhood"
+		"faction": "brotherhood"
 	},
 	"apprentice-scribe-alt_1---fallout-1": {
 		"name": "Apprentice Scribe Alt.1 - Fallout 1",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/apprentice-scribe-alt_1---fallout-1.json",
-		"genre": "brotherhood"
+		"faction": "brotherhood"
 	},
 	"aradesh---fallout-1": {
 		"name": "Aradesh - Fallout 1",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/aradesh---fallout-1.json",
-		"genre": "ncr"
+		"faction": "ncr"
 	},
 	"auto-cannon---fallout-2": {
 		"name": "Auto-Cannon - Fallout 2",
@@ -75,12 +75,12 @@
 	"average-merchant---fallout-2": {
 		"name": "Average Merchant - Fallout 2",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/average-merchant---fallout-2.json",
-		"genre": "merchant,trader"
+		"faction": "merchant,trader"
 	},
 	"average-merchant-alt_1---fallout-2": {
 		"name": "Average Merchant Alt.1 - Fallout 2",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/average-merchant-alt_1---fallout-2.json",
-		"genre": "merchant,trader"
+		"faction": "merchant,trader"
 	},
 	"average-peasant---fallout-2": {
 		"name": "Average Peasant - Fallout 2",
@@ -93,32 +93,32 @@
 	"b_-hunter-lead-(1-6)---fallout-2": {
 		"name": "B. Hunter Lead (1-6) - Fallout 2",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/b_-hunter-lead-(1-6)---fallout-2.json",
-		"genre": "bounty hunter, mercenary"
+		"faction": "bounty hunter, mercenary"
 	},
 	"b_-hunter-lead-(7-12)---fallout-2": {
 		"name": "B. Hunter Lead (7-12) - Fallout 2",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/b_-hunter-lead-(7-12)---fallout-2.json",
-		"genre": "bounty hunter,mercenary"
+		"faction": "bounty hunter,mercenary"
 	},
 	"b_-hunter-lead-(13-18)---fallout-2": {
 		"name": "B. Hunter Lead (13-18) - Fallout 2",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/b_-hunter-lead-(13-18)---fallout-2.json",
-		"genre": "bounty hunter,mercenary"
+		"faction": "bounty hunter,mercenary"
 	},
 	"b_-hunter-lead-(19-x)---fallout-2": {
 		"name": "B. Hunter Lead (19-X) - Fallout 2",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/b_-hunter-lead-(19-x)---fallout-2.json",
-		"genre": "bounty hunter,mercenary"
+		"faction": "bounty hunter,mercenary"
 	},
 	"bad-merchant---fallout-2": {
 		"name": "Bad Merchant - Fallout 2",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/bad-merchant---fallout-2.json",
-		"genre": "merchant,trader"
+		"faction": "merchant,trader"
 	},
 	"bad-merchant-alt_1---fallout-2": {
 		"name": "Bad Merchant Alt.1 - Fallout 2",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/bad-merchant-alt_1---fallout-2.json",
-		"genre": "merchant,trader"
+		"faction": "merchant,trader"
 	},
 	"badger---fallout-2": {
 		"name": "Badger - Fallout 2",
@@ -207,32 +207,32 @@
 	"bounty-hunter-(1-6)---fallout-2": {
 		"name": "Bounty Hunter (1-6) - Fallout 2",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/bounty-hunter-(1-6)---fallout-2.json",
-		"genre": "bounty hunter,mercenary"
+		"faction": "bounty hunter,mercenary"
 	},
 	"bounty-hunter-(7-12)---fallout-2": {
 		"name": "Bounty Hunter (7-12) - Fallout 2",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/bounty-hunter-(7-12)---fallout-2.json",
-		"genre": "bounty hunter,mercenary"
+		"faction": "bounty hunter,mercenary"
 	},
 	"bounty-hunter-(7-12)-alt_1---fallout-2": {
 		"name": "Bounty Hunter (7-12) Alt.1 - Fallout 2",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/bounty-hunter-(7-12)-alt_1---fallout-2.json",
-		"genre": "bounty hunter,mercenary"
+		"faction": "bounty hunter,mercenary"
 	},
 	"bounty-hunter-(13-18)---fallout-2": {
 		"name": "Bounty Hunter (13-18) - Fallout 2",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/bounty-hunter-(13-18)---fallout-2.json",
-		"genre": "bounty hunter,mercenary"
+		"faction": "bounty hunter,mercenary"
 	},
 	"bounty-hunter-(13-18)-alt_1---fallout-2": {
 		"name": "Bounty Hunter (13-18) Alt.1 - Fallout 2",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/bounty-hunter-(13-18)-alt_1---fallout-2.json",
-		"genre": "bounty hunter,mercenary"
+		"faction": "bounty hunter,mercenary"
 	},
 	"bounty-hunter-(19-x)---fallout-2": {
 		"name": "Bounty Hunter (19-X) - Fallout 2",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/bounty-hunter-(19-x)---fallout-2.json",
-		"genre": "bounty hunter,mercenary"
+		"faction": "bounty hunter,mercenary"
 	},
 	"boxer-1---fallout-2": {
 		"name": "Boxer 1 - Fallout 2",
@@ -645,22 +645,22 @@
 	"enclave-guard---fallout-2": {
 		"name": "Enclave Guard - Fallout 2",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/enclave-guard---fallout-2.json",
-		"genre": "enclave"
+		"faction": "enclave"
 	},
 	"enclave-guard-alt_1---fallout-2": {
 		"name": "Enclave Guard Alt.1 - Fallout 2",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/enclave-guard-alt_1---fallout-2.json",
-		"genre": "enclave"
+		"faction": "enclave"
 	},
 	"enclave-patrol---fallout-2": {
 		"name": "Enclave Patrol - Fallout 2",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/enclave-patrol---fallout-2.json",
-		"genre": "enclave"
+		"faction": "enclave"
 	},
 	"enclave-patrol-alt_1---fallout-2": {
 		"name": "Enclave Patrol Alt.1 - Fallout 2",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/enclave-patrol-alt_1---fallout-2.json",
-		"genre": "enclave"
+		"faction": "enclave"
 	},
 	"eyeball--mk-ii---fallout-1": {
 		"name": "Eyeball  Mk II - Fallout 1",
@@ -725,7 +725,7 @@
 	"frank-horrigan---fallout-2": {
 		"name": "Frank Horrigan - Fallout 2",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/frank-horrigan---fallout-2.json",
-		"genre": "enclave"
+		"faction": "enclave"
 	},
 	"gabriel---fallout-1": {
 		"name": "Gabriel - Fallout 1",
@@ -850,12 +850,12 @@
 	"grand-master-trader---fallout-2": {
 		"name": "Grand Master Trader - Fallout 2",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/grand-master-trader---fallout-2.json",
-		"genre": "merchant,trader"
+		"faction": "merchant,trader"
 	},
 	"grand-master-trader-alt_1---fallout-2": {
 		"name": "Grand Master Trader Alt.1 - Fallout 2",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/grand-master-trader-alt_1---fallout-2.json",
-		"genre": "merchant,trader"
+		"faction": "merchant,trader"
 	},
 	"great-mantis---fallout-1": {
 		"name": "Great Mantis - Fallout 1",
@@ -1012,7 +1012,7 @@
 	"gun-merchant---fallout-2": {
 		"name": "Gun Merchant - Fallout 2",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/gun-merchant---fallout-2.json",
-		"genre": "merchant,trader"
+		"faction": "merchant,trader"
 	},
 	"gun-thug---fallout-2": {
 		"name": "Gun Thug - Fallout 2",
@@ -1121,22 +1121,22 @@
 	"initiate-knight---fallout-1": {
 		"name": "Initiate Knight - Fallout 1",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/initiate-knight---fallout-1.json",
-		"genre": "brotherhood"
+		"faction": "brotherhood"
 	},
 	"initiate-knight-alt_1---fallout-1": {
 		"name": "Initiate Knight Alt.1 - Fallout 1",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/initiate-knight-alt_1---fallout-1.json",
-		"genre": "brotherhood"
+		"faction": "brotherhood"
 	},
 	"initiate-scribe---fallout-1": {
 		"name": "Initiate Scribe - Fallout 1",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/initiate-scribe---fallout-1.json",
-		"genre": "brotherhood"
+		"faction": "brotherhood"
 	},
 	"initiate-scribe-alt_1---fallout-1": {
 		"name": "Initiate Scribe Alt.1 - Fallout 1",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/initiate-scribe-alt_1---fallout-1.json",
-		"genre": "brotherhood"
+		"faction": "brotherhood"
 	},
 	"izo---fallout-1": {
 		"name": "Izo - Fallout 1",
@@ -1197,22 +1197,22 @@
 	"journeyman-knight---fallout-1": {
 		"name": "Journeyman Knight - Fallout 1",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/journeyman-knight---fallout-1.json",
-		"genre": "brotherhood"
+		"faction": "brotherhood"
 	},
 	"journeyman-knight-alt_1---fallout-1": {
 		"name": "Journeyman Knight Alt.1 - Fallout 1",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/journeyman-knight-alt_1---fallout-1.json",
-		"genre": "brotherhood"
+		"faction": "brotherhood"
 	},
 	"journeyman-scribe---fallout-1": {
 		"name": "Journeyman Scribe - Fallout 1",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/journeyman-scribe---fallout-1.json",
-		"genre": "brotherhood"
+		"faction": "brotherhood"
 	},
 	"journeyman-scribe-alt_1---fallout-1": {
 		"name": "Journeyman Scribe Alt.1 - Fallout 1",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/journeyman-scribe-alt_1---fallout-1.json",
-		"genre": "brotherhood"
+		"faction": "brotherhood"
 	},
 	"juan---fallout-2": {
 		"name": "Juan - Fallout 2",
@@ -1225,12 +1225,12 @@
 	"junior-paladin---fallout-1": {
 		"name": "Junior Paladin - Fallout 1",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/junior-paladin---fallout-1.json",
-		"genre": "brotherhood"
+		"faction": "brotherhood"
 	},
 	"junior-paladin-alt_1---fallout-1": {
 		"name": "Junior Paladin Alt.1 - Fallout 1",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/junior-paladin-alt_1---fallout-1.json",
-		"genre": "brotherhood"
+		"faction": "brotherhood"
 	},
 	"k-9-(base)---fallout-2": {
 		"name": "K-9 (base) - Fallout 2",
@@ -1539,12 +1539,12 @@
 	"master-trader---fallout-2": {
 		"name": "Master Trader - Fallout 2",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/master-trader---fallout-2.json",
-		"genre": "merchant,trader"
+		"faction": "merchant,trader"
 	},
 	"master-trader-alt_1---fallout-2": {
 		"name": "Master Trader Alt.1 - Fallout 2",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/master-trader-alt_1---fallout-2.json",
-		"genre": "merchant,trader"
+		"faction": "merchant,trader"
 	},
 	"mathia---fallout-1": {
 		"name": "Mathia - Fallout 1",
@@ -1613,117 +1613,117 @@
 	"mercenary---fallout-2": {
 		"name": "Mercenary - Fallout 2",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/mercenary---fallout-2.json",
-		"genre": "bounty hunter,mercenary"
+		"faction": "bounty hunter,mercenary"
 	},
 	"mercenary-alt_1---fallout-2": {
 		"name": "Mercenary Alt.1 - Fallout 2",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/mercenary-alt_1---fallout-2.json",
-		"genre": "bounty hunter,mercenary"
+		"faction": "bounty hunter,mercenary"
 	},
 	"mercenary-alt_2---fallout-2": {
 		"name": "Mercenary Alt.2 - Fallout 2",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/mercenary-alt_2---fallout-2.json",
-		"genre": "bounty hunter,mercenary"
+		"faction": "bounty hunter,mercenary"
 	},
 	"mercenary-alt_3---fallout-1": {
 		"name": "Mercenary Alt.3 - Fallout 1",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/mercenary-alt_3---fallout-1.json",
-		"genre": "bounty hunter,mercenary"
+		"faction": "bounty hunter,mercenary"
 	},
 	"mercenary-alt_4---fallout-1": {
 		"name": "Mercenary Alt.4 - Fallout 1",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/mercenary-alt_4---fallout-1.json",
-		"genre": "bounty hunter,mercenary"
+		"faction": "bounty hunter,mercenary"
 	},
 	"mercenary-alt_5---fallout-1": {
 		"name": "Mercenary Alt.5 - Fallout 1",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/mercenary-alt_5---fallout-1.json",
-		"genre": "bounty hunter,mercenary"
+		"faction": "bounty hunter,mercenary"
 	},
 	"mercenary-alt_5-alt_1---fallout-1": {
 		"name": "Mercenary Alt.5 Alt.1 - Fallout 1",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/mercenary-alt_5-alt_1---fallout-1.json",
-		"genre": "bounty hunter,mercenary"
+		"faction": "bounty hunter,mercenary"
 	},
 	"mercenary-alt_5-alt_2---fallout-1": {
 		"name": "Mercenary Alt.5 Alt.2 - Fallout 1",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/mercenary-alt_5-alt_2---fallout-1.json",
-		"genre": "bounty hunter,mercenary"
+		"faction": "bounty hunter,mercenary"
 	},
 	"mercenary-alt_5-alt_3---fallout-1": {
 		"name": "Mercenary Alt.5 Alt.3 - Fallout 1",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/mercenary-alt_5-alt_3---fallout-1.json",
-		"genre": "bounty hunter,mercenary"
+		"faction": "bounty hunter,mercenary"
 	},
 	"mercenary-alt_5-alt_4---fallout-1": {
 		"name": "Mercenary Alt.5 Alt.4 - Fallout 1",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/mercenary-alt_5-alt_4---fallout-1.json",
-		"genre": "bounty hunter,mercenary"
+		"faction": "bounty hunter,mercenary"
 	},
 	"mercenary-alt_5-alt_5---fallout-1": {
 		"name": "Mercenary Alt.5 Alt.5 - Fallout 1",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/mercenary-alt_5-alt_5---fallout-1.json",
-		"genre": "bounty hunter,mercenary"
+		"faction": "bounty hunter,mercenary"
 	},
 	"mercenary-alt_5-alt_5-alt_1---fallout-1": {
 		"name": "Mercenary Alt.5 Alt.5 Alt.1 - Fallout 1",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/mercenary-alt_5-alt_5-alt_1---fallout-1.json",
-		"genre": "bounty hunter,mercenary"
+		"faction": "bounty hunter,mercenary"
 	},
 	"mercenary-alt_5-alt_5-alt_2---fallout-1": {
 		"name": "Mercenary Alt.5 Alt.5 Alt.2 - Fallout 1",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/mercenary-alt_5-alt_5-alt_2---fallout-1.json",
-		"genre": "bounty hunter,mercenary"
+		"faction": "bounty hunter,mercenary"
 	},
 	"mercenary-alt_5-alt_5-alt_3---fallout-1": {
 		"name": "Mercenary Alt.5 Alt.5 Alt.3 - Fallout 1",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/mercenary-alt_5-alt_5-alt_3---fallout-1.json",
-		"genre": "bounty hunter,mercenary"
+		"faction": "bounty hunter,mercenary"
 	},
 	"mercenary-captain---fallout-2": {
 		"name": "Mercenary Captain - Fallout 2",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/mercenary-captain---fallout-2.json",
-		"genre": "bounty hunter,mercenary"
+		"faction": "bounty hunter,mercenary"
 	},
 	"merchant-alt_2---fallout-1": {
 		"name": "Merchant Alt.2 - Fallout 1",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/merchant-alt_2---fallout-1.json",
-		"genre": "merchant,trader"
+		"faction": "merchant,trader"
 	},
 	"merchant-alt_3---fallout-1": {
 		"name": "Merchant Alt.3 - Fallout 1",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/merchant-alt_3---fallout-1.json",
-		"genre": "merchant,trader"
+		"faction": "merchant,trader"
 	},
 	"merchant-alt_4---fallout-1": {
 		"name": "Merchant Alt.4 - Fallout 1",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/merchant-alt_4---fallout-1.json",
-		"genre": "merchant,trader"
+		"faction": "merchant,trader"
 	},
 	"merchant-alt_5---fallout-1": {
 		"name": "Merchant Alt.5 - Fallout 1",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/merchant-alt_5---fallout-1.json",
-		"genre": "merchant,trader"
+		"faction": "merchant,trader"
 	},
 	"merchant-alt_5-alt_1---fallout-1": {
 		"name": "Merchant Alt.5 Alt.1 - Fallout 1",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/merchant-alt_5-alt_1---fallout-1.json",
-		"genre": "merchant,trader"
+		"faction": "merchant,trader"
 	},
 	"merchant-alt_5-alt_2---fallout-1": {
 		"name": "Merchant Alt.5 Alt.2 - Fallout 1",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/merchant-alt_5-alt_2---fallout-1.json",
-		"genre": "merchant,trader"
+		"faction": "merchant,trader"
 	},
 	"merchant-alt_5-alt_3---fallout-1": {
 		"name": "Merchant Alt.5 Alt.3 - Fallout 1",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/merchant-alt_5-alt_3---fallout-1.json",
-		"genre": "merchant,trader"
+		"faction": "merchant,trader"
 	},
 	"merchant-alt_5-alt_4---fallout-1": {
 		"name": "Merchant Alt.5 Alt.4 - Fallout 1",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/merchant-alt_5-alt_4---fallout-1.json",
-		"genre": "merchant,trader"
+		"faction": "merchant,trader"
 	},
 	"metzger---fallout-2": {
 		"name": "Metzger - Fallout 2",
@@ -1912,32 +1912,32 @@
 	"ncr-bartender---fallout-2": {
 		"name": "NCR Bartender - Fallout 2",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/ncr-bartender---fallout-2.json",
-		"genre": "ncr"
+		"faction": "ncr"
 	},
 	"ncr-guard---fallout-2": {
 		"name": "NCR Guard - Fallout 2",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/ncr-guard---fallout-2.json",
-		"genre": "ncr"
+		"faction": "ncr"
 	},
 	"ncr-guard-alt_1---fallout-2": {
 		"name": "NCR Guard Alt.1 - Fallout 2",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/ncr-guard-alt_1---fallout-2.json",
-		"genre": "ncr"
+		"faction": "ncr"
 	},
 	"ncr-melee-guard---fallout-2": {
 		"name": "NCR Melee Guard - Fallout 2",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/ncr-melee-guard---fallout-2.json",
-		"genre": "ncr"
+		"faction": "ncr"
 	},
 	"ncr-ranger---fallout-2": {
 		"name": "NCR Ranger - Fallout 2",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/ncr-ranger---fallout-2.json",
-		"genre": "ncr"
+		"faction": "ncr"
 	},
 	"ncr-ranger-alt_1---fallout-2": {
 		"name": "NCR Ranger Alt.1 - Fallout 2",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/ncr-ranger-alt_1---fallout-2.json",
-		"genre": "ncr"
+		"faction": "ncr"
 	},
 	"neal---fallout-1": {
 		"name": "Neal - Fallout 1",
@@ -1990,12 +1990,12 @@
 	"paladin-alt_1---fallout-1": {
 		"name": "Paladin Alt.1 - Fallout 1",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/paladin-alt_1---fallout-1.json",
-		"genre": "brotherhood"
+		"faction": "brotherhood"
 	},
 	"paladin-alt_2---fallout-1": {
 		"name": "Paladin Alt.2 - Fallout 1",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/paladin-alt_2---fallout-1.json",
-		"genre": "brotherhood"
+		"faction": "brotherhood"
 	},
 	"pariah-dog---fallout-2": {
 		"name": "Pariah Dog - Fallout 2",
@@ -2084,12 +2084,12 @@
 	"pres_-bodyguard---fallout-2": {
 		"name": "Pres. Bodyguard - Fallout 2",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/pres_-bodyguard---fallout-2.json",
-		"genre": "enclave"
+		"faction": "enclave"
 	},
 	"president---fallout-2": {
 		"name": "President - Fallout 2",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/president---fallout-2.json",
-		"genre": "enclave"
+		"faction": "enclave"
 	},
 	"press-gang---fallout-2": {
 		"name": "Press Gang - Fallout 2",
@@ -2306,62 +2306,62 @@
 	"scribe---fallout-1": {
 		"name": "Scribe - Fallout 1",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/scribe---fallout-1.json",
-		"genre": "brotherhood"
+		"faction": "brotherhood"
 	},
 	"scribe-alt_1---fallout-1": {
 		"name": "Scribe Alt.1 - Fallout 1",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/scribe-alt_1---fallout-1.json",
-		"genre": "brotherhood"
+		"faction": "brotherhood"
 	},
 	"senior-initiate-knight---fallout-1": {
 		"name": "Senior Initiate Knight - Fallout 1",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/senior-initiate-knight---fallout-1.json",
-		"genre": "brotherhood"
+		"faction": "brotherhood"
 	},
 	"senior-initiate-knight-alt_1---fallout-1": {
 		"name": "Senior Initiate Knight Alt.1 - Fallout 1",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/senior-initiate-knight-alt_1---fallout-1.json",
-		"genre": "brotherhood"
+		"faction": "brotherhood"
 	},
 	"senior-initiate-scribe---fallout-1": {
 		"name": "Senior Initiate Scribe - Fallout 1",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/senior-initiate-scribe---fallout-1.json",
-		"genre": "brotherhood"
+		"faction": "brotherhood"
 	},
 	"senior-initiate-scribe-alt_1---fallout-1": {
 		"name": "Senior Initiate Scribe Alt.1 - Fallout 1",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/senior-initiate-scribe-alt_1---fallout-1.json",
-		"genre": "brotherhood"
+		"faction": "brotherhood"
 	},
 	"senior-knight---fallout-1": {
 		"name": "Senior Knight - Fallout 1",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/senior-knight---fallout-1.json",
-		"genre": "brotherhood"
+		"faction": "brotherhood"
 	},
 	"senior-knight-alt_1---fallout-1": {
 		"name": "Senior Knight Alt.1 - Fallout 1",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/senior-knight-alt_1---fallout-1.json",
-		"genre": "brotherhood"
+		"faction": "brotherhood"
 	},
 	"senior-paladin---fallout-1": {
 		"name": "Senior Paladin - Fallout 1",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/senior-paladin---fallout-1.json",
-		"genre": "brotherhood"
+		"faction": "brotherhood"
 	},
 	"senior-paladin-alt_1---fallout-1": {
 		"name": "Senior Paladin Alt.1 - Fallout 1",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/senior-paladin-alt_1---fallout-1.json",
-		"genre": "brotherhood"
+		"faction": "brotherhood"
 	},
 	"senior-scribe---fallout-1": {
 		"name": "Senior Scribe - Fallout 1",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/senior-scribe---fallout-1.json",
-		"genre": "brotherhood"
+		"faction": "brotherhood"
 	},
 	"senior-scribe-alt_1---fallout-1": {
 		"name": "Senior Scribe Alt.1 - Fallout 1",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/senior-scribe-alt_1---fallout-1.json",
-		"genre": "brotherhood"
+		"faction": "brotherhood"
 	},
 	"sentry-bot---fallout-2": {
 		"name": "Sentry Bot - Fallout 2",
@@ -2402,7 +2402,7 @@
 	"shi-merchant---fallout-2": {
 		"name": "Shi Merchant - Fallout 2",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/shi-merchant---fallout-2.json",
-		"genre": "merchant,trader"
+		"faction": "merchant,trader"
 	},
 	"shi-peasant---fallout-2": {
 		"name": "Shi Peasant - Fallout 2",
@@ -2615,12 +2615,12 @@
 	"tandi---fallout-2": {
 		"name": "Tandi - Fallout 2",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/tandi---fallout-2.json",
-		"genre": "ncr"
+		"faction": "ncr"
 	},
 	"tandi-alt_1---fallout-1": {
 		"name": "Tandi Alt.1 - Fallout 1",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/tandi-alt_1---fallout-1.json",
-		"genre": "ncr"
+		"faction": "ncr"
 	},
 	"tangler---fallout-1": {
 		"name": "Tangler - Fallout 1",
@@ -2793,7 +2793,7 @@
 	"trader-1---fallout-2": {
 		"name": "Trader 1 - Fallout 2",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/trader-1---fallout-2.json",
-		"genre": "merchant,trader"
+		"faction": "merchant,trader"
 	},
 	"trapper---fallout-2": {
 		"name": "Trapper - Fallout 2",
@@ -2950,7 +2950,7 @@
 	"vice-president---fallout-2": {
 		"name": "Vice President - Fallout 2",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/vice-president---fallout-2.json",
-		"genre": "enclave"
+		"faction": "enclave"
 	},
 	"vikki---fallout-2": {
 		"name": "Vikki - Fallout 2",
