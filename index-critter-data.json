@@ -2617,12 +2617,12 @@
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/talus---fallout-1.json"
 	},
 	"tandi---fallout-2": {
-		"name": "Tandi - Fallout 2",
+		"name": "Tandi Old - Fallout 2",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/tandi---fallout-2.json",
 		"faction": "ncr"
 	},
 	"tandi-alt_1---fallout-1": {
-		"name": "Tandi Alt.1 - Fallout 1",
+		"name": "Tandi Young - Fallout 1",
 		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/tandi-alt_1---fallout-1.json",
 		"faction": "ncr"
 	},
