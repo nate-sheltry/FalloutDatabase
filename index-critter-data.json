@@ -25,7 +25,8 @@
 	},
 	"alien---fallout-2": {
 		"name": "Alien - Fallout 2",
-		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/alien---fallout-2.json"
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/alien---fallout-2.json",
+		"faction": "alien,wanamingo"
 	},
 	"angela-bishop---fallout-2": {
 		"name": "Angela Bishop - Fallout 2",
@@ -733,11 +734,13 @@
 	},
 	"garl's-advisor---fallout-1": {
 		"name": "Garl's Advisor - Fallout 1",
-		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/garl's-advisor---fallout-1.json"
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/garl's-advisor---fallout-1.json",
+		"faction": "khans"
 	},
-	"garl-alt_1---fallout-1": {
-		"name": "Garl Alt.1 - Fallout 1",
-		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/garl-alt_1---fallout-1.json"
+	"garl---fallout-1": {
+		"name": "Garl - Fallout 1",
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/garl---fallout-1.json",
+		"faction": "khans"
 	},
 	"garret---fallout-1": {
 		"name": "Garret - Fallout 1",
@@ -2129,7 +2132,8 @@
 	},
 	"queen-alien---fallout-2": {
 		"name": "Queen Alien - Fallout 2",
-		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/queen-alien---fallout-2.json"
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/queen-alien---fallout-2.json",
+		"faction": "alien,wanamingo"
 	},
 	"rachael---fallout-1": {
 		"name": "Rachael - Fallout 1",
@@ -2708,7 +2712,8 @@
 	},
 	"tough-alien---fallout-2": {
 		"name": "Tough Alien - Fallout 2",
-		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/tough-alien---fallout-2.json"
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/tough-alien---fallout-2.json",
+		"faction": "alien,wanamingo"
 	},
 	"tough-deathclaw-alt_1---fallout-2": {
 		"name": "Tough Deathclaw Alt.1 - Fallout 2",
@@ -2982,7 +2987,8 @@
 	},
 	"wanamingo-egg---fallout-2": {
 		"name": "Wanamingo Egg - Fallout 2",
-		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/wanamingo-egg---fallout-2.json"
+		"url": "https://nate-sheltry.github.io/FalloutDatabase/critter-data/wanamingo-egg---fallout-2.json",
+		"faction": "alien,wanamingo"
 	},
 	"weak-brahmin---fallout-2": {
 		"name": "Weak Brahmin - Fallout 2",
